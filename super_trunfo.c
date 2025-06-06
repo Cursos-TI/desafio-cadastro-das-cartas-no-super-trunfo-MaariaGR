@@ -1,7 +1,7 @@
 #include <stdio.h> <string.h> //bibliotecas
 int main (){ //inicio da função principal do programa
     printf ("DESAFIO CRIANDO AS CARTAS DE SUPER TRUNFO \n\n");
-    
+    printf ("Novo commit \n")
     //declaração de variáveis
 
     char estado1[2], codigodacarta1[4], nomedacidade1[50];
